@@ -1,6 +1,3 @@
-
-# Rakesh Yadav - Software Engineer | React.js | JavaScript | TypeScript
-
 👋 Hello there! Welcome to my GitHub profile!
 - 💬 Pronouns: He/Him/Mr.
 ## About Me
@@ -9,20 +6,53 @@ I am Rakesh Yadav, a dedicated Software Engineer at Daffodil Software Pvt. Ltd. 
 
 ## Experience
 
-In my professional journey, I've been actively involved in projects that have honed my skills in React.js, JavaScript, TypeScript, and various other technologies. Working as a Software Developer, I have collaborated with talented teams and delivered high-quality applications.
+A highly skilled React.js Developer with 1.5+ years of experience in front-end web development. My passion lies in crafting seamless and delightful user experiences through innovative React.js applications.
 
 ## Skills
 
-- React.js
-- JavaScript
-- TypeScript
-- HTML
-- CSS
-- Problem Solving
+🚀 React.js Fundamentals: Proficient in leveraging the power of React.js, including component-based architecture, state management, and lifecycle methods.
+
+🔗 React Hooks: Experienced in utilizing React Hooks like useState, useEffect, useContext, etc., to build functional and efficient components.
+
+📦 Redux: Knowledgeable in implementing Redux for state management, utilizing actions, reducers, and creating a predictable data flow.
+
+🌐 React Router: Proficient in creating smooth and dynamic client-side routing using React Router.
+
+💡 ES6+ JavaScript: Strong understanding of modern JavaScript concepts and features, enabling me to write clean and concise code.
+
+🎨 HTML & CSS: Skilled in crafting responsive and visually appealing interfaces using semantic HTML and CSS.
+
+🔌 RESTful APIs: Experienced in integrating RESTful APIs and efficiently handling API requests in React applications.
+
+🔄 AJAX and Fetch API: Familiar with asynchronous data fetching using AJAX and Fetch API to ensure a seamless user experience.
+
+⚙️ Webpack or Parcel: Proficient in using build tools like Webpack or Parcel to bundle and optimize React applications.
+
+📚 Front-End Libraries: Familiarity with popular front-end libraries and frameworks like Bootstrap, Material-UI, etc.
+
+📱 Responsive Design: Adept at building mobile-friendly and responsive user interfaces.
+
+🔧 Version Control: Proficient in Git and GitHub for version control and collaborative development.
+
+🔍 Debugging: Skilled in using browser developer tools and React DevTools to identify and fix issues efficiently.
+
+🧪 Testing: Familiar with writing unit tests using Jest and Enzyme to ensure the reliability of React components.
+
+⚡ Performance Optimization: Knowledgeable in employing performance optimization techniques to create efficient React applications.
+
+✨ Code Quality and Best Practices: Committed to writing clean, maintainable, and scalable code following industry best practices.
+
+🛡️ Security: Well-versed in implementing security measures to protect applications from common vulnerabilities.
+
+🌐 Cross-Browser Compatibility: Ensuring seamless compatibility of React applications across different web browsers.
+
+🚀 Front-End Build and Deployment: Experienced in build and deployment processes for front-end applications.
+
+📚 Continuous Learning: Always eager to stay up-to-date with the latest trends and advancements in React.js and front-end development.
 
 ## Projects
 
-I love working on projects that challenge me and allow me to showcase my abilities. You can find some of my notable projects here [link to your projects repository].
+I love working on projects that challenge me and allow me to showcase my abilities.
 
 ## Mentoring Experience
 
